@@ -1,5 +1,5 @@
 from queue import Queue
-from typing import List
 
+# Global lists for traces
 base_processes = []
 running_processes = Queue()

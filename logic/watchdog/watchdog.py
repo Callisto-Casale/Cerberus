@@ -1,7 +1,7 @@
 from models.config import Config
 from models.trace import Trace
-from logic.watchdog.processes import running_processes as rp
-from logic.watchdog.processes import base_processes as bp
+from logic.processes import running_processes as rp
+from logic.processes import base_processes as bp
 import json
 
 class Watchdog:
