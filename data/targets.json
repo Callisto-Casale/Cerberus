@@ -1,8 +1,8 @@
-[
-    {
-      "name": "Test1",
-      "target": "X:\\Projects\\Cerberus\\test_script.py",
-      "frequency": 10,
-      "SHOW_OUTPUT": true
-    }
-]
+// [
+//     {
+//       "name": "Test1",
+//       "target": "/home/callisto/D/Coding/PI/Cerberus/test_script.py",
+//       "frequency": 10,
+//       "SHOW_OUTPUT": true
+//     }
+// ]
